@@ -48,4 +48,24 @@
 
 This application is designed to run on Linux (tested on Debian and Ubuntu) and utilizes several libraries to achieve its functionality.
 
+![Screenshot 2024-09-23 212815](https://github.com/user-attachments/assets/76eedf92-1ebc-4d7c-bf7a-5079ba2d37c9)
+<font size="8"> Figure 1: The Pathfinding Algorithm at Work! </font>
+
+![Weather](https://github.com/user-attachments/assets/da0c0f67-3b13-46d8-b6a6-787f2ba4531a)
+
+<font size="8"> Figure 2: Weather Display </font>
+
+![Screenshot 2024-09-23 215730](https://github.com/user-attachments/assets/e9d0414b-205e-4278-867a-043b47a8308b)
+
+<font size="8"> Figure 3: Search by street names. </font>
+
+![Screenshot 2024-09-23 215955](https://github.com/user-attachments/assets/11b8d1f2-b87b-4f7a-b763-920b5be91d14)
+
+<font size="8"> Figure 4: Navigation Bar </font> 
+
+![Screenshot 2024-09-23 220108](https://github.com/user-attachments/assets/8abbcebc-83b5-47a9-9a37-d63d7d1d7d32)
+
+<font size="8"> Figure 5: Navigation Bar </font> 
+
+
 
